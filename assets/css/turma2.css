@@ -1,0 +1,14 @@
+:root{
+    --cor: rgba(63,94,251,1);
+    --cor: rgba(252,70,107,1);
+    --angulo: 90deg;
+}
+body{
+        background: linear-gradient(var(--anngulo),var(--cor1) 0%,var(--cor2);
+}
+div.topo{
+    width: 60rem;
+    background-color: rgba(256,300,400,500);
+
+
+}
